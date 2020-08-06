@@ -1,2 +1,2 @@
-# http://kodünyası.github.io
+# https://kodünyası.github.io
 kişisel site
